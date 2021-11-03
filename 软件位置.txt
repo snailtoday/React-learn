@@ -1,0 +1,31 @@
+ps                     		——D:\软件安装包\Adobe
+动画Adoble Flash		——D:\软件安装包\Adobe Flash CS6l绿色版
+多媒体Dreamweaver	——D:\软件安装包\Adobe_Dreamweaver_CS5\Adobe_Dreamweaver_CS5
+百度网盘			——D:\软件安装包\BaiduNetdisk
+HBuilderX			——D:\软件安装包\HBuilderX
+tomcat			——D:\软件安装包\java前端
+idea(在bin中运行)		——D:\软件安装包\java前端
+jdk-13.0.2		——D:\软件安装包\java前端
+mysql8.0.25		——D:\软件安装包\java前端
+C++			——D:\软件安装包\Microsoft Visual Studio
+幕布（是大纲编写流程）	——D:\软件安装包\Mubu幕布
+环境变量中mysql的配置地址	——D:\软件安装包\mysql——（D:\软件安装包\mysql\mysql-8.0.19-winx64）
+D:\软件安装包\vue：（vue.js）——D:\软件安装包\vue——是vue的使用代码
+微信			——D:\软件安装包\WeChat
+智云云翻译
+vscode			——D:\软件安装包\软件\vscode
+优酷录屏			——D:\软件安装包\软件\优酷桌面录屏 v7.0.2 独立版
+二级练习			——D:\软件安装包\软件
+微信开发者工具		——D:\软件安装包\微信web开发者工具
+ProgramFiles（用来装各类练习test）——D:\ProgramFiles
+360安全			——D:\新建文件夹\360Safe\SoftMgr
+钉钉			——D:\新建文件夹\DingDing
+goobal下载地址		——D:\新建文件夹\goole下载地址
+			D:\新建文件夹\前端笔记pink老师
+node			——D:\新建文件夹\软件安装
+有道			——D:\新建文件夹
+四六级视频有道		——D:\Youku Files\capture
+
+
+
+                                                C:\Users\胡昌兰\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
